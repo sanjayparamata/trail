@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-section {
+    background-image: url("https://res.cloudinary.com/desjfyswt/image/upload/v1682777962/Adobe_Express_20230429_1948000.5961287360236089_pzzxcc.gif");
+}
+
+.nav-bg {
+    background-color: #010f05;
+}
+
+.list {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+.span-bg {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 3px;
+    border-color: #ffffff;
+}
+
+#span-1 {
+    height: 12px;
+    width: 94%;
+    background-image: linear-gradient(to left, #05fc47, #014510);
+    border-style: solid;
+    border-width: 0px;
+    color: #05fc47;
+    background-size: cover;
+}
+
+#span-2 {
+    height: 12px;
+    width: 93%;
+    background-image: linear-gradient(to left, #05fc47, #014510);
+    border-style: solid;
+    border-width: 0px;
+    color: #05fc47;
+    background-size: cover;
+}
+
+#span-3 {
+    height: 12px;
+    width: 92%;
+    background-image: linear-gradient(to left, #05fc47, #014510);
+    border-style: solid;
+    border-width: 0px;
+    color: #05fc47;
+    background-size: cover;
+}
+
+#span-4 {
+    height: 12px;
+    width: 88%;
+    background-image: linear-gradient(to left, #05fc47, #014510);
+    border-style: solid;
+    border-width: 0px;
+    color: #05fc47;
+    background-size: cover;
+}
+
+#span-5 {
+    height: 12px;
+    width: 95%;
+    background-image: linear-gradient(to left, #05fc47, #014510);
+    border-style: solid;
+    border-width: 0px;
+    color: #05fc47;
+    background-size: cover;
+}
+
+#span-6 {
+    height: 12px;
+    width: 94%;
+    background-image: linear-gradient(to left, #05fc47, #014510);
+    border-style: solid;
+    border-width: 0px;
+    color: #05fc47;
+    background-size: cover;
+}
+
+.image {
+
+    border-radius: 25px;
+}
+
+.head-para {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 800;
+    color: #05fc47;
+}
+
+#main-head {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 800;
+    color: #05fc47;
+}
+
+.bio-para {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: white;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 800;
+    color: white;
+}
+
+.skill-container {
+    background-color: transparent;
+
+}
+
+.icon-container {
+    width: 45%;
+    border-width: 2px;
+    border-color: #48ee59;
+    background-color: #00000080;
+    padding: 16px;
+    border-radius: 8px;
+
+}
+
+.fone-icon {
+    color: #05fc47;
+    font-size: 15px;
+}
+
+.icon {
+    border-radius: 8px;
+    height: 55px;
+    width: 55px;
+}
+
+.icon-head {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 800;
+    color: white;
+    margin-top: 16px;
+
+}
+
+.detail-head {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 800;
+    color: #05fc47;
+    margin-top: 16px;
+
+}
+
+.detail-para {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: white;
+    margin-top: 16px;
+
+}
+
+.Ip-button {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    font-weight: 800;
+    border-width: 0px;
+}
+
+.pagemodal {
+    background-image: radial-gradient(white, black);
+}
+
+.hr-line {
+    border-color: #05fc47;
+}
+
+.social {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.social-container {
+    background-color: #00000080;
+    height: 50px;
+    width: 50px;
+    padding-top: 15px;
+    padding-right: 36px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+    border-radius: 100px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+}
